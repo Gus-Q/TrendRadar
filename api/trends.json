@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T18:17:41.143227+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-05-20T21:39:05.007157+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 18时17分]"
+          "appearance_count": 8,
+          "time_info": "[07时53分 ~ 21时39分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -122,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "对谈谷歌开发者社区核心成员",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA%E6%A0%B8%E5%BF%83%E6%88%90%E5%91%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
@@ -468,7 +479,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -495,6 +506,17 @@
           "time_info": "[00时43分 ~ 07时53分]"
         },
         {
+          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
+          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 21时39分]"
+        },
+        {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
           "url": "https://news.ifeng.com/c/8tG27n1FK2V",
           "source": "凤凰网",
@@ -504,6 +526,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 07时53分]"
+        },
+        {
+          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
+          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
@@ -529,15 +562,15 @@
           "time_info": "07时53分"
         },
         {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：对白宫舞厅融资不感到担忧。",
+          "url": "https://flash.jin10.com/detail/20260520213616703800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时17分"
+          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。",
@@ -573,6 +606,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "美国总统特朗普：预计帕克斯顿将在得州获胜。",
+          "url": "https://flash.jin10.com/detail/20260520213542238800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "特朗普将出席在法国举行的G7峰会。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3106301",
           "source": "华尔街见闻-快讯",
@@ -582,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "美国总统特朗普：昨天的经济数据非常出色。",
+          "url": "https://flash.jin10.com/detail/20260520213513860800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
@@ -668,6 +723,17 @@
           "time_info": "[02时31分 ~ 04时23分]"
         },
         {
+          "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
+          "url": "https://news.ifeng.com/c/8tHcSaikz2t",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普家族被豁免永久禁止国税局审计",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B1%81%E5%85%8D%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%AE%A1%E8%AE%A1%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -734,6 +800,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：美国公众舆论和经济混乱状态，让美国总统特朗普犹豫不决。",
+          "url": "https://flash.jin10.com/detail/20260520213157509800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）正在审查今年3月特朗普宣布推迟对伊朗进行军事打击前夕，原油期货交易量暴增的情况。作为调查的一部分，CFTC目前对至少三家公司进行关注。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3106339",
           "source": "华尔街见闻-快讯",
@@ -743,6 +820,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：汽油价格、债券市场、银行利率、影响美国民众主要生活成本的通货膨胀率等状况，已在美国国内引发民众抗议，就连特朗普的许多支持者也认为美国对伊朗的战争是以色列的战争，违背了特朗普的竞选承诺。",
+          "url": "https://flash.jin10.com/detail/20260520213137020800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国副总统万斯：我们可以重新启动军事行动，但这并不是特朗普或伊朗所希望的。",
@@ -800,6 +888,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "贝佐斯：特朗普比第一任期更成熟、更自律。 我仍然会打电话给奥巴马征求意见。 在太空建立数据中心“非常现实”。 地面数据中心的能源预算将会增加。 发射成本需要降低十倍。 人工智能将导致劳动力短缺。 亚马逊没有因为人工智能而裁员。 我在亚马逊、蓝色起源以及普罗米修斯公司的工作经历，都与人工智能相关。 太空产业将会成为一个“庞大规模”的产业。",
+          "url": "https://wallstreetcn.com/livenews/3106732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "特朗普：将让沃什按自己的意愿决定利率",
           "url": "https://wallstreetcn.com/livenews/3106151",
           "source": "华尔街见闻-快讯",
@@ -836,7 +935,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -923,6 +1022,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美股盘初：纳指涨0.5%，费城半导体指数涨2.2%",
+          "url": "https://wallstreetcn.com/livenews/3106758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "金十图示：2026年05月19日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260520020034868800",
           "source": "金十数据",
@@ -985,11 +1095,23 @@
           "url": "https://wallstreetcn.com/articles/3772678",
           "source": "华尔街见闻",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 21时39分]"
+        },
+        {
+          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
+          "url": "https://wallstreetcn.com/articles/3772698",
+          "source": "华尔街见闻",
+          "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
@@ -998,9 +1120,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3106748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "AMC院线美股盘后涨6%，该公司CEO买入股票。",
@@ -1012,6 +1145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.31%，标普500指数涨0.29%，纳指涨0.49%。科技股反弹，美光科技(MU.O)涨4.6%，英特尔(INTC.O)涨6.4%，高通(QCOM.O)涨1.7%，英伟达(NVDA.O)涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260520213024404800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美股三大指数收跌 光通信逆势走强",
@@ -1083,7 +1227,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "A股存储芯片板块延续强势，三孚股份、诚邦股份3连板，中科飞测涨超15%，股价续创历史新高，联芸科技、神工股份、华海清科跟涨。",
@@ -1106,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股今日71股涨停",
+          "url": "https://www.toutiao.com/trending/7641817687316299782/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "A股",
@@ -1213,7 +1368,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -1250,11 +1405,12 @@
           "url": "https://wallstreetcn.com/articles/3772671",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时09分 ~ 18时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时09分 ~ 21时39分]"
         },
         {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
@@ -1279,6 +1435,18 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 21时39分]"
+        },
+        {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
           "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
@@ -1288,17 +1456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "美债收益率引爆新压力，沃什还没上任就被“围剿”？特朗普改口留后路",
@@ -1340,7 +1497,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
