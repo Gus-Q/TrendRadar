@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T19:53:33.181479+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-05-23T20:55:42.531867+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时57分]"
+        },
+        {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 20时55分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -32,19 +46,6 @@
           "time_info": "[00时13分 ~ 09时52分]"
         },
         {
-          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
-          "url": "https://wallstreetcn.com/articles/3772951",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 19时53分]"
-        },
-        {
           "title": "特朗普变卦前，接到电话警告“会输给中国”",
           "url": "https://news.ifeng.com/c/8tMYpnHTqBH",
           "source": "凤凰网",
@@ -52,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时55分]"
         },
         {
           "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
@@ -64,8 +65,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 19时53分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 20时55分]"
+        },
+        {
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 20时55分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -145,18 +158,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
-          "url": "https://wallstreetcn.com/articles/3772968",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时53分]"
-        },
-        {
           "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
           "url": "https://flash.jin10.com/detail/20260523131327066800",
           "source": "金十数据",
@@ -180,6 +181,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时32分 ~ 19时53分]"
+        },
+        {
+          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
+          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
@@ -242,15 +266,16 @@
           "time_info": "[04时27分 ~ 05时56分]"
         },
         {
-          "title": "“回家找妈妈吧！”演讲时遭打断，特朗普嘲讽抗议者",
-          "url": "https://v.ifeng.com/c/8tMPX6NaRot",
-          "source": "凤凰网",
+          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260523191635208800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "time_info": "[19时53分 ~ 20时55分]"
         },
         {
           "title": "“新美联储通讯社”：特朗普选沃什本为降息，但市场已开始押注加息",
@@ -265,16 +290,28 @@
           "time_info": "[18时20分 ~ 19时53分]"
         },
         {
-          "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
-          "source": "澎湃新闻",
+          "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
+          "url": "https://flash.jin10.com/detail/20260523184255800800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            9
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "time_info": "[19时53分 ~ 20时55分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
+          "url": "https://flash.jin10.com/detail/20260523184146091800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 20时55分]"
         },
         {
           "title": "特朗普向沃什施压",
@@ -347,17 +384,6 @@
           "time_info": "00时14分"
         },
         {
-          "title": "卡塔尔埃米尔宫：卡塔尔埃米尔与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260523191635208800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "美国总统特朗普：没有人比沃什更适合领导美联储。",
           "url": "https://flash.jin10.com/detail/20260522235325088800",
           "source": "金十数据",
@@ -389,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "据半岛电视台：卡塔尔埃米尔与特朗普讨论巴基斯坦主导的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260523195813054800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美国总统特朗普：预计沃什将成为一位伟大的美联储主席。",
@@ -433,28 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "美国驻印度大使塞尔吉奥·戈尔：美国国务卿鲁比奥代表特朗普总统邀请印度总理莫迪在不久的将来访问白宫。",
-          "url": "https://flash.jin10.com/detail/20260523184255800800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-23）",
-          "url": "https://flash.jin10.com/detail/20260523184146091800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "特朗普：将缺席儿子的婚礼",
@@ -515,7 +530,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -524,11 +539,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时56分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 20时55分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -551,6 +567,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
+          "url": "https://www.cls.cn/detail/2379735",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时55分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
@@ -610,18 +639,6 @@
           "time_info": "[05时56分 ~ 07时57分]"
         },
         {
-          "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
-          "url": "https://www.cls.cn/detail/2379735",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
-        },
-        {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
           "url": "https://wallstreetcn.com/livenews/3108237",
           "source": "华尔街见闻-快讯",
@@ -656,6 +673,17 @@
           "time_info": "09时52分"
         },
         {
+          "title": "下周一港股、美股休市",
+          "url": "https://www.toutiao.com/trending/7642672726146056242/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美股早盘小幅上涨，标普500指数势创2023年以来最长周连涨",
           "url": "https://wallstreetcn.com/livenews/3108140",
           "source": "华尔街见闻-快讯",
@@ -682,8 +710,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时56分 ~ 19时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 20时55分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -713,11 +741,12 @@
           "url": "https://www.zhihu.com/question/2041150006099501503",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时55分]"
         },
         {
           "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
@@ -733,6 +762,74 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时13分 ~ 13时32分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 20时55分]"
+        },
+        {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 20时55分]"
+        },
+        {
+          "title": "DeepSeek宣布：永久降价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
+          "url": "https://flash.jin10.com/detail/20260523153803265800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 18时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
       "match_count": 4,
       "titles": [
@@ -742,11 +839,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 19时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 20时55分]"
         },
         {
           "title": "A股反弹是不是牛市信号",
@@ -785,59 +883,44 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek",
-      "match_count": 4,
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
-          "url": "https://www.zhihu.com/question/2041260640740927118",
-          "source": "知乎",
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时13分 ~ 13时32分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 19时53分]"
-        },
-        {
-          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/2041154123677126717",
-          "source": "知乎",
-          "ranks": [
+            8,
             5,
-            6,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 19时53分]"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时53分]"
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
-          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
-          "url": "https://flash.jin10.com/detail/20260523153803265800",
-          "source": "金十数据",
+          "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
+          "url": "https://wallstreetcn.com/articles/3772963",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            29
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时04分 ~ 18时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -866,37 +949,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 19时53分]"
-        },
-        {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
         }
       ]
     },
