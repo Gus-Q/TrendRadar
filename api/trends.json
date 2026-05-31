@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T06:46:45.537553+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-06-01T07:55:46.559748+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -30,6 +30,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时54分 ~ 06时46分]"
+        },
+        {
+          "title": "多名艺人辞演后特朗普决定自己上台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            14,
+            11,
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
@@ -47,19 +63,26 @@
           "time_info": "[00时54分 ~ 06时46分]"
         },
         {
-          "title": "多名艺人辞演后特朗普决定自己上台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
+          "url": "https://flash.jin10.com/detail/20260601073133221800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            14,
-            11,
-            13,
-            15
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普称，伊朗协议指出了伊朗不会拥有核武器，伊朗协议的大部分内容都与核问题有关。",
+          "url": "https://wallstreetcn.com/livenews/3111998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
@@ -124,7 +147,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -134,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -146,8 +169,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -159,8 +182,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
@@ -174,6 +197,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 03时03分]"
+        },
+        {
+          "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
+          "url": "https://wallstreetcn.com/livenews/3111988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "券商：A股6月将延续高位震荡，科技主线或内部聚焦",
+          "url": "https://wallstreetcn.com/livenews/3111987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -188,7 +233,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -233,11 +278,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 06时46分]"
+          "appearance_count": 7,
+          "time_info": "[00时54分 ~ 07时55分]"
         }
       ]
     },
