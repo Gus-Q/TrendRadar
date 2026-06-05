@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T20:33:45.473733+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-06-05T23:47:36.726329+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
@@ -133,6 +144,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 23时47分]"
         },
         {
           "title": "曝特朗普将现场观看NBA总决赛G3",
@@ -267,17 +290,6 @@
           "time_info": "05时22分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
-        },
-        {
           "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
           "url": "https://flash.jin10.com/detail/20260605043321294800",
           "source": "金十数据",
@@ -355,6 +367,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
+          "url": "https://flash.jin10.com/detail/20260605233310430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
           "url": "https://wallstreetcn.com/livenews/3114648",
           "source": "华尔街见闻-快讯",
@@ -364,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
+          "url": "https://wallstreetcn.com/livenews/3115234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
@@ -408,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
@@ -520,6 +565,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
+          "url": "https://wallstreetcn.com/livenews/3115225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
           "url": "https://wallstreetcn.com/livenews/3114513",
           "source": "华尔街见闻-快讯",
@@ -609,6 +665,18 @@
           "time_info": "[08时06分 ~ 13时08分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 23时47分]"
+        },
+        {
           "title": "李大霄谈美股风险释放",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
           "source": "bilibili 热搜",
@@ -618,17 +686,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 07时01分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
         },
         {
           "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
@@ -689,7 +746,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股机器人板块走高，绿的谐波涨超17%，亿嘉和、埃夫特、三丰智能、派斯林、凯尔达等跟涨。",
@@ -737,6 +794,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 07时01分]"
+        },
+        {
+          "title": "招商证券：想在A股赚钱，第一条铁律是“叙事”风向",
+          "url": "https://www.cls.cn/detail/2392216",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "核心驱动力并未动摇，五大券商把脉A股下半年机遇",
@@ -806,11 +874,12 @@
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时33分 ~ 23时47分]"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
@@ -861,7 +930,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
@@ -895,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260605232415104800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
@@ -911,8 +991,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 20时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 23时47分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -921,7 +1001,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -939,6 +1019,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -949,7 +1057,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
