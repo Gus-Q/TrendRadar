@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T21:04:02.869770+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-06-06T23:05:14.581500+08:00",
+  "total_titles_processed": 1402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时16分 ~ 21时04分]"
+          "appearance_count": 6,
+          "time_info": "[17时16分 ~ 23时05分]"
         },
         {
           "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -56,6 +56,20 @@
           "time_info": "[10时38分 ~ 14时20分]"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 23时05分]"
+        },
+        {
           "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
           "url": "https://flash.jin10.com/detail/20260606060416092800",
           "source": "金十数据",
@@ -76,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
+          "url": "https://v.ifeng.com/c/8tjL2UjJKhb",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
@@ -123,19 +148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时58分 ~ 14时20分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 21时04分]"
         },
         {
           "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
@@ -321,6 +333,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗高官：谈判主动权在特朗普手里",
+          "url": "https://www.toutiao.com/trending/7648086385831804969/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
@@ -557,7 +580,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -569,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时56分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 23时05分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -578,11 +601,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时56分 ~ 21时04分]"
+          "appearance_count": 11,
+          "time_info": "[06时56分 ~ 23时05分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -610,6 +634,18 @@
           "time_info": "[10时38分 ~ 21时04分]"
         },
         {
+          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
+          "url": "https://www.cls.cn/detail/2392638",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时05分]"
+        },
+        {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
           "url": "https://wallstreetcn.com/livenews/3115338",
           "source": "华尔街见闻-快讯",
@@ -619,18 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时04分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超6.5%，英伟达也跌6.2%",
@@ -679,6 +703,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时58分 ~ 10时39分]"
+        },
+        {
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
         },
         {
           "title": "美股泡沫爆破或渐行渐近",
@@ -1054,8 +1089,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时20分 ~ 21时04分]"
+          "appearance_count": 7,
+          "time_info": "[14时20分 ~ 23时05分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1115,11 +1150,12 @@
           "url": "https://www.cls.cn/detail/2392448",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时03分 ~ 21时04分]"
+          "appearance_count": 4,
+          "time_info": "[21时03分 ~ 23时05分]"
         },
         {
           "title": "券商：A股正从估值修复走向盈利验证",
@@ -1187,11 +1223,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时04分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 23时05分]"
         },
         {
           "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
@@ -1219,8 +1256,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金饰价格跌去约21% 黄金还能买吗",
+          "url": "https://www.toutiao.com/trending/7648263144199949867/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时04分 ~ 23时05分]"
+        },
         {
           "title": "金饰价格跌回2025年 专家建议：黄金占资产配比10%",
           "url": "https://flash.jin10.com/detail/20260606092732683800",
