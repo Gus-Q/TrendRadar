@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T10:42:59.810385+08:00",
-  "total_titles_processed": 796,
+  "generated_at": "2026-06-08T15:21:36.552351+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普：我说了算，以色列总理别无选择",
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 15时21分]"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时42分]"
+          "time_info": "[10时42分 ~ 15时21分]"
         },
         {
           "title": "据阿拉伯卫星电视台：内塔尼亚胡与特朗普的通话持续了20分钟。",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
         },
         {
           "title": "据半岛电视台：特朗普和内塔尼亚胡正在进行电话交谈。",
@@ -124,6 +125,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "据沙特媒体哈达斯：特朗普与内塔尼亚胡通话结束。",
           "url": "https://flash.jin10.com/detail/20260608051817435800",
           "source": "金十数据",
@@ -133,6 +145,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "阿尔巴尼亚民众集会，反对政府批准特朗普女婿开发度假村",
+          "url": "https://news.ifeng.com/c/8tmri3lweAi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "专家：中东激烈交火暴露特朗普外交乏力，对伊以影响力均有限",
+          "url": "https://flash.jin10.com/detail/20260608151008820800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "美国总统特朗普与以色列总理内塔尼亚胡通电话。（以色列媒体）",
@@ -210,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "特朗普称美伊达成协议前不会解冻伊朗资产",
@@ -380,21 +425,8 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时42分]"
-        },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
           "url": "https://wallstreetcn.com/articles/3774038",
@@ -403,7 +435,21 @@
             9,
             8,
             7,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -440,11 +486,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 15时21分]"
         },
         {
           "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
@@ -463,22 +510,46 @@
           "url": "https://www.douyin.com/hot/2526841",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时21分]"
         },
         {
           "title": "A股行情",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时21分]"
+        },
+        {
+          "title": "A股收盘 沪指跌1.7%失守4000点",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98+%E6%B2%AA%E6%8C%87%E8%B7%8C1.7%25%E5%A4%B1%E5%AE%884000%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "15时21分"
+        },
+        {
+          "title": "美股科技大跌对A股影响有多大",
+          "url": "https://www.toutiao.com/trending/7648866478107659803/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股开盘暴跌",
@@ -487,7 +558,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -498,7 +569,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -509,9 +580,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "A股收评：沪指收跌1.70%，油服工程板块走强",
+          "url": "https://flash.jin10.com/detail/20260608150506232800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股PCB板块震荡回升，贝斯特涨超12%，金安国纪涨停，华正新材涨超9%，宝鼎科技、立方控股、则成电子、鹏鼎控股等个股跟涨。",
@@ -520,7 +602,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -531,7 +613,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -542,7 +624,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -553,9 +635,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "业内：A股市场结构性矛盾初步缓和",
+          "url": "https://www.toutiao.com/trending/7648464874117038116/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
@@ -586,6 +679,21 @@
           "time_info": "[01时03分 ~ 07时57分]"
         },
         {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
+        },
+        {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
           "url": "https://www.zhihu.com/question/2046639064917586455",
           "source": "知乎",
@@ -597,20 +705,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时03分 ~ 07时57分]"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时42分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -671,7 +765,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -682,9 +776,39 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
+          "url": "https://wallstreetcn.com/articles/3774034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 15时21分]"
+        },
+        {
+          "title": "Gemini 美国大豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
@@ -714,29 +838,12 @@
           "url": "https://www.cls.cn/detail/2392919",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 10时42分]"
+          "appearance_count": 2,
+          "time_info": "[10时42分 ~ 15时21分]"
         }
       ]
     }
