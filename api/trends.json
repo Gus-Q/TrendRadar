@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T07:58:21.678689+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-06-20T10:40:12.493082+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -15,11 +15,48 @@
             2,
             1,
             12,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
+        },
+        {
+          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
+        },
+        {
+          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
+          "url": "https://news.ifeng.com/c/8u5ipgperKS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
         },
         {
           "title": "美国总统特朗普透露，卡塔尔赠予的空军一号专机已经搭载了星链通信网络。",
@@ -44,17 +81,6 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
-          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
-          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
-        },
-        {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
           "url": "https://flash.jin10.com/detail/20260620040416605800",
           "source": "金十数据",
@@ -64,17 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
-          "url": "https://news.ifeng.com/c/8u5ipgperKS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：F-47正在建造中。已经启动了装配线。他们说这是有史以来最伟大的战斗机。我们会验证这一点。",
@@ -97,30 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
-        },
-        {
-          "title": "特朗普：Anthropic曾构成国家安全威胁",
-          "url": "https://wallstreetcn.com/livenews/3122193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时03分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
@@ -147,6 +138,17 @@
           "time_info": "[03时23分 ~ 07时58分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
           "url": "https://flash.jin10.com/detail/20260620025727223800",
           "source": "金十数据",
@@ -159,6 +161,19 @@
           "time_info": "[03时23分 ~ 07时58分]"
         },
         {
+          "title": "特朗普：Anthropic曾构成国家安全威胁",
+          "url": "https://wallstreetcn.com/livenews/3122193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时03分 ~ 10时40分]"
+        },
+        {
           "title": "特朗普移动首款手机竟是中国制造",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -168,28 +183,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时09分 ~ 06时03分]"
-        },
-        {
-          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
-          "url": "https://wallstreetcn.com/livenews/3122195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
-          "url": "https://wallstreetcn.com/livenews/3122194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
         },
         {
           "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
@@ -204,6 +197,72 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
+          "url": "https://wallstreetcn.com/livenews/3122195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时40分]"
+        },
+        {
+          "title": "特朗普：美伊须60天内达成长期协议，否则将采取进一步行动",
+          "url": "https://wallstreetcn.com/livenews/3122194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时40分]"
+        },
+        {
+          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
+          "url": "https://wallstreetcn.com/livenews/3122178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 10时40分]"
+        },
+        {
+          "title": "美国总统特朗普：与以色列关系一直都很好。",
+          "url": "https://wallstreetcn.com/livenews/3122177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 10时40分]"
+        },
+        {
+          "title": "美国总统特朗普：将前往土耳其。",
+          "url": "https://wallstreetcn.com/livenews/3122176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 10时40分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -263,19 +322,6 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
-          "title": "美国总统特朗普：卡塔尔赠送的“空军一号”配置星链。",
-          "url": "https://wallstreetcn.com/livenews/3122178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
           "title": "美国总统特朗普：将于7月7-8日赴土耳其参加北约峰会。",
           "url": "https://flash.jin10.com/detail/20260620035211173800",
           "source": "金十数据",
@@ -287,37 +333,11 @@
           "time_info": "[05时01分 ~ 07时58分]"
         },
         {
-          "title": "美国总统特朗普：与以色列关系一直都很好。",
-          "url": "https://wallstreetcn.com/livenews/3122177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
           "title": "美国总统特朗普：那些船只正以前所未有的速度驶出霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260620035101442800",
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
-          "title": "美国总统特朗普：将前往土耳其。",
-          "url": "https://wallstreetcn.com/livenews/3122176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            21
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -415,6 +435,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "美国白宫：特朗普总统做成了一件六个月前大多数专家认为不可能的事，我们已经取得了胜利。",
+          "url": "https://flash.jin10.com/detail/20260620091217880800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
           "url": "https://flash.jin10.com/detail/20260619235405420800",
           "source": "金十数据",
@@ -506,8 +537,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
         },
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -521,24 +552,25 @@
           "time_info": "[01时09分 ~ 06时03分]"
         },
         {
-          "title": "美元指数19日下跌",
-          "url": "https://flash.jin10.com/detail/20260620035724024800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 07时58分]"
-        },
-        {
           "title": "美元指数本周涨约1%",
           "url": "https://wallstreetcn.com/livenews/3122179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
             14,
-            18
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 10时40分]"
+        },
+        {
+          "title": "美元指数19日下跌",
+          "url": "https://flash.jin10.com/detail/20260620035724024800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -559,8 +591,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -571,25 +603,26 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
           "url": "https://www.cls.cn/detail/2404026",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -600,8 +633,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 10时40分]"
+        },
+        {
+          "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2404523",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -644,6 +688,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 05时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3122199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         }
       ]
     }
