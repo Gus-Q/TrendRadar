@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-21T06:57:27.113094+08:00",
-  "total_titles_processed": 445,
-  "failed_sources": [],
+  "generated_at": "2026-06-21T08:01:06.237938+08:00",
+  "total_titles_processed": 488,
+  "failed_sources": [
+    "douyin"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "外媒爆料：特朗普和高市早苗在G7会议上吵了起来",
@@ -15,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "特朗普：今年将再次访问中国",
@@ -49,9 +51,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 08时01分]"
         },
         {
           "title": "美以关系如何？特朗普：关系很好，但必须让内塔尼亚胡“保持理智”",
@@ -62,8 +64,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "特朗普高市早苗当众吵起来了",
@@ -72,11 +74,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "特朗普坚称伊朗无条件投降了",
@@ -86,8 +89,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260621035019632800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
+          "url": "https://flash.jin10.com/detail/20260621031735328800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 08时01分]"
         },
         {
           "title": "特朗普的“空中行宫”谁买单",
@@ -102,6 +129,17 @@
           "time_info": "[01时13分 ~ 03时07分]"
         },
         {
+          "title": "意大利总理回击特朗普批评：应关注自身支持率",
+          "url": "https://news.ifeng.com/c/8u6beESPjqF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 08时01分]"
+        },
+        {
           "title": "分析：特朗普对经济风险的担忧削弱了美国谈判筹码",
           "url": "https://flash.jin10.com/detail/20260621004843090800",
           "source": "金十数据",
@@ -114,28 +152,15 @@
           "time_info": "[01时14分 ~ 03时07分]"
         },
         {
-          "title": "特朗普：若与伊朗不能达成协议 美或收取海峡通行费",
-          "url": "https://flash.jin10.com/detail/20260621035019632800",
-          "source": "金十数据",
+          "title": "梅洛尼回应特朗普“乞求合影”言论",
+          "url": "https://www.douyin.com/hot/2541105",
+          "source": "抖音",
           "ranks": [
-            8,
-            18
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时57分]"
-        },
-        {
-          "title": "特朗普：霍尔木兹海峡停火期间及结束后都免征通行费 若协议未达成将由美方收费",
-          "url": "https://flash.jin10.com/detail/20260621031735328800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时57分]"
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "学者：伊朗效仿特朗普采取“周末战略”",
@@ -207,8 +232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -219,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
@@ -230,8 +255,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         }
       ]
     },
@@ -247,8 +272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -259,8 +284,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 08时01分]"
         }
       ]
     },
@@ -291,11 +316,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 06时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 08时01分]"
         }
       ]
     }
