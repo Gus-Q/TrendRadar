@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:57:17.617185+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-06-25T10:09:06.158054+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -33,13 +33,24 @@
           "time_info": "[00时06分 ~ 07时57分]"
         },
         {
+          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
+          "url": "https://wallstreetcn.com/livenews/3124377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "特朗普与共和党参议员爆发激烈争吵，伊朗战争分歧点燃党内火药桶",
           "url": "https://flash.jin10.com/detail/20260625073705480800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 04时26分]"
+        },
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -271,17 +293,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时26分]"
-        },
-        {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
           "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
@@ -292,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 07时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 10时09分]"
         },
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -304,8 +315,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时06分 ~ 07时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时06分 ~ 10时09分]"
+        },
+        {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 04时26分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -319,6 +341,30 @@
           "time_info": "00时06分"
         },
         {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 10时09分]"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时09分]"
+        },
+        {
           "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
           "url": "https://flash.jin10.com/detail/20260625040832491800",
           "source": "金十数据",
@@ -328,29 +374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        },
-        {
-          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2408279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 06时06分]"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.10%，报313.41点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.91%，报2152.67点，北京时间21:30美股开盘之前维持微幅下跌状态、持稳于2228点附近，之后持续扩大跌幅、03:21曾跌至2129.28点。 在美股时段交易的原材料指数收跌0.80%，金属与矿业指数收跌2.22%。",
@@ -421,6 +444,111 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股先进封装概念震荡走强，长电科技4天3板，续创历史新高，盛剑科技、国林科技、芯源微、中科飞测跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625094219250800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股开盘：存储芯片概念大幅高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "A股小金属板块盘初活跃，东方钽业、云南锗业盘中创新高，长裕集团5连板，贵研铂业、宜安科技、盛龙股份、锡业股份、东方锆业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625094151083800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股走势分化，创业板指涨超1%，深成指涨0.7%，沪指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20260625093729064800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
+          "url": "https://wallstreetcn.com/livenews/3124274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "A股证券板块盘初拉升，华安证券冲击涨停，招商证券、财达证券、天风证券、长江证券纷纷上扬。",
+          "url": "https://flash.jin10.com/detail/20260625093327663800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
+          "url": "https://wallstreetcn.com/livenews/3124116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "A股光纤概念股延续涨势，通鼎互联盘中创新高，宏柏新材3连板，昀冢科技、泰和新材、德龙激光、兴发集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625093205734800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "多家A股公司主动补税，折射企业税务合规新常态",
+          "url": "https://wallstreetcn.com/livenews/3124263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -453,7 +581,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -467,45 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
-          "url": "https://wallstreetcn.com/livenews/3124274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "安永：上半年A股IPO首日平均涨233%，位居近五年首位",
-          "url": "https://wallstreetcn.com/livenews/3124116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "多家A股公司主动补税，折射企业税务合规新常态",
-          "url": "https://wallstreetcn.com/livenews/3124263",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         }
       ]
     },
