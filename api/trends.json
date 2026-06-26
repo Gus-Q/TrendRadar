@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T13:02:29.653735+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-06-26T16:47:18.028718+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -138,7 +138,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -267,7 +267,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
@@ -278,8 +278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 16时47分]"
         },
         {
           "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
@@ -291,8 +291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 16时47分]"
         },
         {
           "title": "美股",
@@ -353,6 +353,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "美股盘前，半导体股普跌，美光科技跌约4%，AMD跌约2%，英特尔跌约3%，希捷科技跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3125141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，美股早盘呈现出V形反转，成分股闪迪目前涨18.1%，美光涨16.1%，应用材料涨10.1%，西部数据涨8.1%，高通涨7.9%，阿斯麦ADR涨4.5%，谷歌A跌0.8%，英伟达跌幅收窄至1.1%，Meta跌1.7%，亚马逊跌2.2%，微软跌3.4%，苹果仍然重挫超5.6%，Strategy跌6.9%。 半导体指数涨超4.1%。",
           "url": "https://wallstreetcn.com/livenews/3124781",
           "source": "华尔街见闻-快讯",
@@ -384,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，美光科技(MU.O)跌超4%，英特尔(INTC.O)跌3.2%，百度(BIDU.O)、AMD(AMD.O)跌2.7%，高通(QCOM.O)、博通(AVGO.O)跌超1%，微软(MSFT.O)涨1.1%。",
+          "url": "https://flash.jin10.com/detail/20260626160313852800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
@@ -515,20 +537,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时47分]"
         },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时47分]"
         },
         {
           "title": "DeepSeek大规模招聘",
@@ -537,7 +560,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -577,7 +600,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -602,6 +625,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股这轮牛市你赚钱了吗",
+          "url": "https://www.toutiao.com/trending/7655278728469024299/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 06时15分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 16时47分]"
+        },
+        {
+          "title": "A股收盘：沪指跌2.26%",
+          "url": "https://www.douyin.com/hot/2548281",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -641,36 +706,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股这轮牛市你赚钱了吗",
-          "url": "https://www.toutiao.com/trending/7655278728469024299/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 06时15分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时02分"
         }
       ]
     },
