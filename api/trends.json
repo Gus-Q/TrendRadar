@@ -1,11 +1,184 @@
 {
-  "generated_at": "2026-06-29T07:59:28.288283+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2026-06-29T10:59:26.648044+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "A股",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
+          "url": "https://www.cls.cn/detail/2411079",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时59分]"
+        },
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时59分]"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2410708",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 07时59分]"
+        },
+        {
+          "title": "A股科创50冲高回落翻绿，现跌近0.7%，此前一度涨超4%。成分股中，源杰科技、生益电子、晶合集成领跌。",
+          "url": "https://flash.jin10.com/detail/20260629104022601800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股猪肉板块持续走强，巨星农牧封板涨停，牧原股份涨超7%，天康生物、神农集团等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629103848840800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "6月份A股公司密集分红，派现总额近5700亿元",
+          "url": "https://wallstreetcn.com/livenews/3125734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "A股PCB概念股震荡下挫，宝鼎科技、光华科技触及跌停，天承科技、德福科技、东威科技、南亚新材跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3125815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "下半年A股怎么走",
+          "url": "https://www.toutiao.com/trending/7656099058775490611/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "A股创新药板块持续走强，万邦医药此前20CM封板涨停，双鹭药业、康缘药业、凯莱英10CM涨停，恒瑞医药涨超8%，药明康德、常山药业等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629102852039800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股零售概念震荡回升，中百集团、宁波中百双双涨停，浙江东日、步步高、东百集团、中央商场跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629102257537800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股白酒板块走强，酒鬼酒涨超8%，舍得酒业涨超5%，贵州茅台涨超2%，迎驾贡酒、水井坊等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629101959718800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股半导体产业链延续涨势，银河微电20cm涨停，神工股份涨超10%，宏微科技、扬杰科技、雅克科技、富满微涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3125775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股游戏股震荡走强，完美世界封板涨停，神州泰岳涨超15%，星辉娱乐、世纪华通、三七互联等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260629101616633800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "A股印制电路板板块冲高回落跌超4%，宝鼎科技跌停，鹏鼎控股、中京电子、贤丰控股、南亚新材跟跌。",
+          "url": "https://flash.jin10.com/detail/20260629101317862800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -19,25 +192,26 @@
           "time_info": "[00时56分 ~ 07时59分]"
         },
         {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
           "source": "澎湃新闻",
           "ranks": [
             8,
             7,
-            5
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时59分]"
+        },
+        {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -131,6 +305,28 @@
           "time_info": "[03时11分 ~ 04时50分]"
         },
         {
+          "title": "美伊局势追踪：战火再起和谈生变数，特朗普再发“恐怖警告”！",
+          "url": "https://www.cls.cn/detail/2411269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "特朗普的“留名计划”又进一步！晒出印有其肖像的新版护照",
+          "url": "https://www.cls.cn/detail/2411031",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -140,69 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "多家A股公司扎堆发异动公告，涉PCB、玻璃基板、液冷等热门赛道",
-          "url": "https://www.cls.cn/detail/2411079",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
-          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2410708",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
-        },
-        {
-          "title": "6月份A股公司密集分红，派现总额近5700亿元",
-          "url": "https://wallstreetcn.com/livenews/3125734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "下半年A股怎么走",
-          "url": "https://www.toutiao.com/trending/7656099058775490611/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
         }
       ]
     },
@@ -249,8 +382,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时59分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -294,11 +427,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[00时56分 ~ 10时59分]"
         }
       ]
     }
