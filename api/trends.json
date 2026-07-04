@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T20:02:36.765248+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-07-04T21:27:30.444976+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -62,9 +62,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时27分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时02分"
+          "time_info": "21时27分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
@@ -123,11 +134,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 20时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 21时27分]"
         },
         {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
@@ -142,6 +154,30 @@
           "time_info": "[13时34分 ~ 16时19分]"
         },
         {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 21时27分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时27分]"
+        },
+        {
           "title": "美国250周年遇上特朗普",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD250%E5%91%A8%E5%B9%B4%E9%81%87%E4%B8%8A%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "bilibili 热搜",
@@ -153,38 +189,15 @@
           "time_info": "[18时47分 ~ 18时48分]"
         },
         {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 20时02分]"
-        },
-        {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
-        },
-        {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
           "url": "https://v.ifeng.com/c/8uTnyXsavVt",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时27分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -267,7 +280,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -293,8 +306,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 21时27分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -318,12 +331,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 20时02分]"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
@@ -334,8 +358,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 20时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时44分 ~ 21时27分]"
         },
         {
           "title": "Meta股价因AI进展不及预期下跌",
@@ -360,8 +384,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 21时27分]"
+        },
+        {
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
@@ -412,11 +447,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时34分 ~ 20时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时34分 ~ 21时27分]"
         }
       ]
     },
