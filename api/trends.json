@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:57:21.507781+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-07-08T15:23:37.338313+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -101,8 +101,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 15时23分]"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -156,7 +156,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -183,13 +183,24 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美伊停火协议裂痕扩大 特朗普难以收场",
+          "url": "https://flash.jin10.com/detail/20260708150256432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "特朗普说中国威胁论纯属危言耸听",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E7%BA%AF%E5%B1%9E%E5%8D%B1%E8%A8%80%E8%80%B8%E5%90%AC%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -233,7 +244,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
@@ -266,8 +277,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 15时23分]"
         },
         {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
@@ -290,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 15时23分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -388,6 +399,102 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股红利股局部活跃，山东高速触及涨停，粤高速A涨近2%，双双创历史新高，晋控煤业、山煤国际、厦门国贸、中国银行、皖通高速涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3130442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3130206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时44分]"
+        },
+        {
+          "title": "A股失守4000点关口 后市如何演绎",
+          "url": "https://www.toutiao.com/trending/7659771141031988799/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时50分 ~ 03时31分]"
+        },
+        {
+          "title": "A股ST板块震荡反弹，ST达华、ST星农、*ST发展、ST洲际、*ST中岩、ST西王等多只ST股午后封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3130433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "今年以来近350家A股公司披露股权激励计划",
+          "url": "https://wallstreetcn.com/livenews/3130214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260708150244937800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "A股有色板块震荡下行，东方锆业、云南锗业午后跌停，宝武镁业、长裕集团、中矿资源、金钼股份、贵研铂业跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3130418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
+          "url": "https://wallstreetcn.com/livenews/3130346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
@@ -399,8 +506,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 15时23分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -424,8 +531,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时50分 ~ 12时57分]"
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 15时23分]"
         },
         {
           "title": "美国官员：美国财政部正撤销此前授权销售伊朗石油的通用许可证。",
@@ -497,11 +604,12 @@
             8,
             7,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时50分 ~ 12时57分]"
+          "appearance_count": 8,
+          "time_info": "[01时50分 ~ 15时23分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -551,58 +659,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 03时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3130206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时44分]"
-        },
-        {
-          "title": "A股失守4000点关口 后市如何演绎",
-          "url": "https://www.toutiao.com/trending/7659771141031988799/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 03时31分]"
-        },
-        {
-          "title": "今年以来近350家A股公司披露股权激励计划",
-          "url": "https://wallstreetcn.com/livenews/3130214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
-          "url": "https://wallstreetcn.com/livenews/3130346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
         }
       ]
     },
@@ -682,7 +738,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
@@ -711,7 +767,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -722,7 +778,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         }
