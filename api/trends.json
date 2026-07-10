@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T14:04:46.632763+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-07-10T18:15:36.588491+08:00",
+  "total_titles_processed": 1224,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -71,9 +71,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 18时15分]"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时04分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -116,11 +116,24 @@
           "source": "凤凰网",
           "ranks": [
             6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时04分]"
+          "time_info": "[14时04分 ~ 18时15分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -155,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -245,13 +247,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的电话交谈尚未进行。",
+          "url": "https://flash.jin10.com/detail/20260710174534667800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国佛罗里达州棕榈滩机场更名为特朗普机场",
           "url": "https://wallstreetcn.com/livenews/3131752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -302,6 +315,189 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "华泰证券：A股有色超跌或存修复空间",
+          "url": "https://flash.jin10.com/detail/20260710072734865800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260710093718113800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股流动性指标",
+          "url": "https://flash.jin10.com/detail/20260710093651627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股CPO概念股表现活跃，剑桥科技涨停，联特科技、铭普光磁、光迅科技、天孚通信、奕东电子涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3131640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
+          "url": "https://www.cls.cn/detail/2422336",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时04分 ~ 18时15分]"
+        },
+        {
+          "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
+          "url": "https://www.cls.cn/detail/2422969",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "宁德时代A股跌超3%，宁德时代(03750.HK)港股跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260710093559454800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股能源金属板块盘初调整，融捷股份跌停，雅化集团、永兴材料、天齐锂业、盛新锂能、赣锋锂业、西藏矿业等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260710093455554800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股光刻机板块盘初活跃，旭光电子涨超7%，大族激光涨超6%，美埃科技、泰晶科技、沃格光电跟涨。",
+          "url": "https://flash.jin10.com/detail/20260710092854306800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股卫星导航板块午后走强，天力复合涨超24%，航天环宇涨超19%，华是科技涨超18%，星辰科技涨超16%，星图测控、西侧测试涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260710131451918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股开盘：沪指跌0.13% 内存涨幅居前",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E8%B7%8C0.13%25+%E5%86%85%E5%AD%98%E6%B6%A8%E5%B9%85%E5%B1%85%E5%89%8D",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股军工信息化板块午后拉升，佳缘科技20CM涨停，星图测控涨超14%，天微电子涨超10%，国博电子、海格通信涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260710130838343800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "A股CPO板块高开，华天科技涨停，深科达涨超9%，剑桥科技涨超8%，光迅科技、长电科技涨超5%，华工科技、天孚通信跟涨。",
+          "url": "https://flash.jin10.com/detail/20260710092637225800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260710092548794800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股收盘：科创50指数冲高回落跌5.53%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E8%B7%8C5.53%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "A股回落原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%9B%9E%E8%90%BD%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
@@ -316,6 +512,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时12分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 18时15分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -352,17 +559,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时32分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时04分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -490,155 +686,6 @@
       ]
     },
     {
-      "keyword_group": "A股",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "华泰证券：A股有色超跌或存修复空间",
-          "url": "https://flash.jin10.com/detail/20260710072734865800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260710093718113800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股流动性指标",
-          "url": "https://flash.jin10.com/detail/20260710093651627800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股CPO概念股表现活跃，剑桥科技涨停，联特科技、铭普光磁、光迅科技、天孚通信、奕东电子涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3131640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "宁德时代A股跌超3%，宁德时代(03750.HK)港股跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260710093559454800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股能源金属板块盘初调整，融捷股份跌停，雅化集团、永兴材料、天齐锂业、盛新锂能、赣锋锂业、西藏矿业等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260710093455554800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
-          "url": "https://www.cls.cn/detail/2422336",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "A股光刻机板块盘初活跃，旭光电子涨超7%，大族激光涨超6%，美埃科技、泰晶科技、沃格光电跟涨。",
-          "url": "https://flash.jin10.com/detail/20260710092854306800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股卫星导航板块午后走强，天力复合涨超24%，航天环宇涨超19%，华是科技涨超18%，星辰科技涨超16%，星图测控、西侧测试涨超13%。",
-          "url": "https://flash.jin10.com/detail/20260710131451918800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "A股开盘：沪指跌0.13% 内存涨幅居前",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E6%B2%AA%E6%8C%87%E8%B7%8C0.13%25+%E5%86%85%E5%AD%98%E6%B6%A8%E5%B9%85%E5%B1%85%E5%89%8D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股军工信息化板块午后拉升，佳缘科技20CM涨停，星图测控涨超14%，天微电子涨超10%，国博电子、海格通信涨超9%。",
-          "url": "https://flash.jin10.com/detail/20260710130838343800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "A股CPO板块高开，华天科技涨停，深科达涨超9%，剑桥科技涨超8%，光迅科技、长电科技涨超5%，华工科技、天孚通信跟涨。",
-          "url": "https://flash.jin10.com/detail/20260710092637225800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股温度计",
-          "url": "https://flash.jin10.com/detail/20260710092548794800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -670,11 +717,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 14时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 18时15分]"
         },
         {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
