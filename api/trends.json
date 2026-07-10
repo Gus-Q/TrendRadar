@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T10:02:33.701601+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-07-10T14:04:46.632763+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -65,15 +65,15 @@
           "time_info": "[00时21分 ~ 07时57分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
+          "title": "特朗普协议埋下“定时炸弹”：一个模糊条款引爆霍尔木兹海峡控制权争夺",
+          "url": "https://flash.jin10.com/detail/20260710133524777800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "14时04分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -85,6 +85,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时04分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -99,6 +111,18 @@
           "time_info": "[04时32分 ~ 06时12分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时04分]"
+        },
+        {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
           "url": "https://flash.jin10.com/detail/20260710054645407800",
           "source": "金十数据",
@@ -111,24 +135,13 @@
           "time_info": "[06时12分 ~ 07时57分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
           "url": "https://news.ifeng.com/c/8uda049HcXP",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -142,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -205,7 +229,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -219,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国佛罗里达州棕榈滩机场更名为特朗普机场",
+          "url": "https://wallstreetcn.com/livenews/3131752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "据福克斯新闻：美国商务部长霍华德·卢特尼克表示，特朗普认为未来油价将保持较低水平。",
@@ -295,6 +330,18 @@
           "time_info": "[00时21分 ~ 10时02分]"
         },
         {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时04分]"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -307,6 +354,17 @@
           "time_info": "[00时21分 ~ 04时32分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时04分]"
+        },
+        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -317,29 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时57分]"
-        },
-        {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时02分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
@@ -383,8 +418,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时04分]"
         },
         {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
@@ -456,7 +491,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "华泰证券：A股有色超跌或存修复空间",
@@ -476,7 +511,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -487,7 +522,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -498,7 +533,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -509,7 +544,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -520,9 +555,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
+          "url": "https://www.cls.cn/detail/2422336",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "A股光刻机板块盘初活跃，旭光电子涨超7%，大族激光涨超6%，美埃科技、泰晶科技、沃格光电跟涨。",
@@ -531,9 +577,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股卫星导航板块午后走强，天力复合涨超24%，航天环宇涨超19%，华是科技涨超18%，星辰科技涨超16%，星图测控、西侧测试涨超13%。",
+          "url": "https://flash.jin10.com/detail/20260710131451918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "A股开盘：沪指跌0.13% 内存涨幅居前",
@@ -542,9 +599,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "A股军工信息化板块午后拉升，佳缘科技20CM涨停，星图测控涨超14%，天微电子涨超10%，国博电子、海格通信涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260710130838343800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         },
         {
           "title": "A股CPO板块高开，华天科技涨停，深科达涨超9%，剑桥科技涨超8%，光迅科技、长电科技涨超5%，华工科技、天孚通信跟涨。",
@@ -553,7 +621,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -564,7 +632,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
@@ -592,9 +660,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 14时04分]"
         },
         {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
@@ -628,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "据华尔街日报：OpenAI高管Fidji Simo将辞职，未来将成为该公司兼职顾问。",
