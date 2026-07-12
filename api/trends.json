@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:03:28.392049+08:00",
-  "total_titles_processed": 1097,
+  "generated_at": "2026-07-12T20:49:50.438270+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -78,17 +78,6 @@
           "time_info": "[00时40分 ~ 05时38分]"
         },
         {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时03分]"
-        },
-        {
           "title": "两党住房法案未经特朗普签署自动生效",
           "url": "https://flash.jin10.com/detail/20260712054924358800",
           "source": "金十数据",
@@ -111,6 +100,18 @@
           "time_info": "[06时36分 ~ 07时42分]"
         },
         {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时49分]"
+        },
+        {
           "title": "曝光特朗普临时换专机，美媒吃传票了",
           "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
           "source": "凤凰网",
@@ -120,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时14分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
+          "url": "https://news.ifeng.com/c/8uheASr3DB8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
@@ -162,7 +174,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -214,7 +226,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -227,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 20时49分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -266,6 +278,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
+          "url": "https://www.cls.cn/detail/2423847",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
+        },
+        {
+          "title": "下周A股机会来了吗",
+          "url": "https://www.toutiao.com/trending/7660731729879220266/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时49分"
         },
         {
           "title": "A股一周熊股出炉：最熊股跌超84%",
@@ -307,8 +341,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 19时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 20时49分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -370,11 +404,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时49分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
