@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:48:09.697518+08:00",
-  "total_titles_processed": 1384,
+  "generated_at": "2026-07-15T19:20:08.328503+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -20,8 +20,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时03分 ~ 17时48分]"
+          "appearance_count": 13,
+          "time_info": "[04时03分 ~ 19时20分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -45,8 +45,24 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[05时44分 ~ 19时20分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[05时44分 ~ 17时48分]"
+          "time_info": "[06时45分 ~ 19时20分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -94,6 +110,18 @@
           "time_info": "[04时03分 ~ 12时39分]"
         },
         {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时20分]"
+        },
+        {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
           "source": "澎湃新闻",
@@ -119,22 +147,6 @@
           "time_info": "[01时02分 ~ 04时03分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            15,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时45分 ~ 17时48分]"
-        },
-        {
           "title": "不到24小时，特朗普态度大转弯",
           "url": "https://news.ifeng.com/c/8uly6273mL2",
           "source": "凤凰网",
@@ -148,15 +160,28 @@
           "time_info": "[09时12分 ~ 15时05分]"
         },
         {
-          "title": "特朗普为何频频感谢中俄？",
-          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 19时20分]"
+        },
+        {
+          "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
+          "url": "https://news.ifeng.com/c/8umgsdbwja6",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "time_info": "[19时19分 ~ 19时20分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -201,19 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时38分 ~ 17时48分]"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -274,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时40分]"
+        },
+        {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -344,17 +367,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
-          "url": "https://www.cls.cn/detail/2427184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -478,6 +490,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美国总统特朗普：好消息！众议院通过了我支持的法案，永久实施夏令时。",
+          "url": "https://flash.jin10.com/detail/20260715185022350800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
           "url": "https://wallstreetcn.com/livenews/3133784",
           "source": "华尔街见闻-快讯",
@@ -577,6 +600,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美国总统特朗普：美国的犯罪率大幅下降，“睡王拜登”的开放边界政策让2500万人不受限制、不经过审查地涌入我们的国家。许多人是罪犯，我们必须把他们赶出去。",
+          "url": "https://flash.jin10.com/detail/20260715184724396800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
           "url": "https://flash.jin10.com/detail/20260715030602681800",
           "source": "金十数据",
@@ -668,7 +702,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -679,8 +713,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 17时48分]"
+          "appearance_count": 8,
+          "time_info": "[09时12分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -799,15 +833,37 @@
           "time_info": "[07时40分 ~ 09时12分]"
         },
         {
+          "title": "纽约梅隆银行第二季度营收57.0亿美元，同比增长13%。 第二季度调整后每股收益2.46美元，预估2.23美元。 第二季度净利息收入14.5亿美元，预估13.8亿美元。 纽约梅隆银行美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3134310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "阿里巴巴美股盘前涨超5%，苹果涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3134244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "强生第二季度销售额253.1亿美元，预估250.4亿美元。 第二季度调整后每股收益2.90美元。 第二季度药品收入163.8亿美元，预估161.2亿美元。 强生预计全年调整后每股收益11.60美元至11.75美元。 强生预计全年销售额1,008亿美元至1,014亿美元，市场预估1,010.7亿美元。 强生美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3134300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
@@ -915,9 +971,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "贝莱德第二季度营收70.8亿美元，预估68.2亿美元。 第二季度调整后每股收益13.91美元，预估12.66美元。 贝莱德第二季度资产管理规模15.34万亿美元，预估15.19万亿美元。 贝莱德将季度股票回购规模提高至5.5亿美元。 贝莱德美股盘前涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3134285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "美股开盘：AI硬件股上涨 IBM跌22%",
@@ -975,11 +1042,12 @@
           "source": "微博",
           "ranks": [
             13,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时05分 ~ 17时48分]"
+          "appearance_count": 5,
+          "time_info": "[15时05分 ~ 19时20分]"
         },
         {
           "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
@@ -1193,7 +1261,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -1214,8 +1282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 17时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时47分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek估值或达4814亿",
@@ -1241,13 +1309,24 @@
           "time_info": "[12时38分 ~ 15时05分]"
         },
         {
+          "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
+          "url": "https://www.cls.cn/detail/2427193",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时19分 ~ 19时20分]"
+        },
+        {
           "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
           "url": "https://flash.jin10.com/detail/20260715172344196800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
         }
@@ -1286,6 +1365,45 @@
           "source": "华尔街见闻",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英媒：布鲁塞尔加强大科技监管，拟再对谷歌开出巨额罚单",
+          "url": "https://flash.jin10.com/detail/20260715185455276800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "据英国金融时报：布鲁塞尔准备对谷歌实施新一轮罚款，随着对大型科技公司的监管力度加大。",
+          "url": "https://flash.jin10.com/detail/20260715184735484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "谷歌公司位于美国阿肯色州（Arkansas）的2.5 GWDC光伏项目破土动工。 Steel River能源中心将新增2.9 GWh电池储能。",
+          "url": "https://wallstreetcn.com/livenews/3133774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1352,23 +1470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌公司位于美国阿肯色州（Arkansas）的2.5 GWDC光伏项目破土动工。 Steel River能源中心将新增2.9 GWh电池储能。",
-          "url": "https://wallstreetcn.com/livenews/3133774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         }
       ]
     }
