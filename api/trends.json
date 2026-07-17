@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:52:09.957988+08:00",
-  "total_titles_processed": 934,
+  "generated_at": "2026-07-17T15:09:13.851266+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -25,11 +25,23 @@
           "source": "凤凰网",
           "ranks": [
             1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
+        },
+        {
+          "title": "特朗普说别人都在笑话美国",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E5%88%AB%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%AC%91%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -103,11 +115,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
         },
         {
           "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
@@ -338,6 +351,40 @@
           "time_info": "[01时02分 ~ 05时54分]"
         },
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
+        },
+        {
+          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
+          "url": "https://www.cls.cn/detail/2428956",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
+        },
+        {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2428765",
           "source": "财联社热门",
@@ -350,40 +397,6 @@
           "time_info": "[01时02分 ~ 09时24分]"
         },
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
-        },
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
-        },
-        {
-          "title": "美股收盘：芯片股持续下挫拖累纳指跌近1.5% 存储、光通信板块领跌",
-          "url": "https://www.cls.cn/detail/2428956",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
-        },
-        {
           "title": "金十图示：2026年07月16日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260717003033503800",
           "source": "金十数据",
@@ -393,6 +406,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
+          "url": "https://www.cls.cn/detail/2429026",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -428,18 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时54分]"
-        },
-        {
-          "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
-          "url": "https://www.cls.cn/detail/2429026",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
         },
         {
           "title": "奈飞二季度营收125.6亿美元，分析师预期125.8亿美元。 二季度每股收益（EPS）为0.80美元，分析师预期0.79美元。 预计全年营收510亿-514亿美元，公司原本预计507亿-517亿美元。 预计三季度营收128.6亿美元，分析师预期130亿美元。 预计三季度EPS为0.82美元，分析师预期0.84美元。 “我们观看了啥”（What we Watched）的发布频率将从半年一次降低至一年一次。 奈飞美股盘后跌3%。",
@@ -598,11 +612,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时09分]"
         },
         {
           "title": "谷歌母公司Alphabet（谷歌A）重挫5%刷新日低，报道称谷歌Gemini模型将推迟发布。",
@@ -742,7 +757,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "A股突然放量释放何信号",
@@ -768,6 +783,17 @@
           "time_info": "[01时02分 ~ 05时54分]"
         },
         {
+          "title": "A股跌至3790点",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E8%87%B33790%E7%82%B9%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
           "title": "A股哪些板块在逆势吸筹",
           "url": "https://www.toutiao.com/trending/7663116917388873259/",
           "source": "今日头条",
@@ -788,8 +814,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 15时09分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "A股长期来看还要创新高",
@@ -801,6 +849,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
+          "title": "A股半日放量1219亿调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E6%97%A5%E6%94%BE%E9%87%8F1219%E4%BA%BF%E8%B0%83%E6%95%B4%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "刘纪鹏谈A股长慢牛的底层逻辑",
@@ -824,6 +883,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时24分"
+        },
+        {
+          "title": "A股创新药概念跌势扩大，百奥赛图、百诚医药20cm跌停，药康生物、泓博医药、前沿生物、华纳药厂等多股跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3135490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         }
       ]
     },
@@ -889,7 +959,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -900,7 +970,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         }
@@ -935,8 +1005,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 12时52分]"
+          "appearance_count": 4,
+          "time_info": "[12时51分 ~ 15时09分]"
         }
       ]
     }
