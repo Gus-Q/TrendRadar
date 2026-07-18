@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:08:13.262498+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2026-07-18T19:43:46.188945+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -32,6 +32,18 @@
           "time_info": "[00时07分 ~ 06时37分]"
         },
         {
+          "title": "白宫声称特朗普并非针对中国",
+          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 19时43分]"
+        },
+        {
           "title": "白宫：特朗普将出席世界杯决赛",
           "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
           "source": "凤凰网",
@@ -43,16 +55,16 @@
           "time_info": "[00时07分 ~ 03时57分]"
         },
         {
-          "title": "白宫声称特朗普并非针对中国",
-          "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
           "source": "凤凰网",
           "ranks": [
-            4,
-            1
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 19时43分]"
         },
         {
           "title": "台积电加码对美投资，特朗普：邀请所有人前来美国建厂",
@@ -77,18 +89,6 @@
           "time_info": "03时57分"
         },
         {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 18时08分]"
-        },
-        {
           "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
           "url": "https://flash.jin10.com/detail/20260718043845403800",
           "source": "金十数据",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 07时41分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 19时43分]"
         },
         {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
@@ -151,19 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时43分]"
-        },
-        {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 18时08分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -278,6 +278,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "曝特朗普买股票后在社媒发有利信息",
           "url": "https://www.toutiao.com/trending/7662654350632255514/",
           "source": "今日头条",
@@ -287,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "媒体：“毫秒级速度”获取特朗普帖文，特朗普媒体科技集团报价10万美元/月",
@@ -328,17 +350,6 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时07分 ~ 06时37分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
           "url": "https://www.cls.cn/detail/2430055",
           "source": "财联社热门",
@@ -348,8 +359,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时37分 ~ 18时08分]"
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 19时43分]"
+        },
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时07分 ~ 06时37分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -464,6 +486,18 @@
           "time_info": "[01时56分 ~ 02时50分]"
         },
         {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时08分 ~ 19时43分]"
+        },
+        {
           "title": "美股收盘：三大股指低收，芯片股涨跌不一",
           "url": "https://flash.jin10.com/detail/20260718040114530800",
           "source": "金十数据",
@@ -474,17 +508,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时40分]"
-        },
-        {
-          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
-          "url": "https://wallstreetcn.com/livenews/3135984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -523,7 +546,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -535,8 +558,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 18时08分]"
+          "appearance_count": 6,
+          "time_info": "[12时36分 ~ 19时43分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -620,12 +643,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3136001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://flash.jin10.com/detail/20260718181052420800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "据科威特国家通讯社：科威特石油公司（KPC）称，伊朗袭击导致一处石油设施遭到破坏，此次袭击造成人员受伤和重大财产损失。",
+          "url": "https://flash.jin10.com/detail/20260718180425107800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -637,19 +721,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时41分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 19时43分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 19时43分]"
+        },
+        {
+          "title": "Kimi K3重演“DeepSeek时刻”",
+          "url": "https://www.toutiao.com/trending/7663776827566984767/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "DeepSeek准确估值意外曝光",
