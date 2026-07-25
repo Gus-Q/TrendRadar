@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T22:26:17.845670+08:00",
-  "total_titles_processed": 1341,
+  "generated_at": "2026-07-25T23:55:13.414739+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -127,6 +127,18 @@
           "time_info": "[02时10分 ~ 04时09分]"
         },
         {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时25分 ~ 23时55分]"
+        },
+        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
           "url": "https://wallstreetcn.com/livenews/3139705",
           "source": "华尔街见闻-快讯",
@@ -152,6 +164,17 @@
           "time_info": "[12时54分 ~ 15时09分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
           "url": "https://flash.jin10.com/detail/20260725183311628800",
           "source": "金十数据",
@@ -174,17 +197,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 12时54分]"
-        },
-        {
-          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
-          "url": "https://wallstreetcn.com/articles/3777927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "特朗普再打关税战 这次有何不同",
@@ -254,6 +266,17 @@
           "time_info": "[15时08分 ~ 15时09分]"
         },
         {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
           "url": "https://flash.jin10.com/detail/20260725034104359800",
           "source": "金十数据",
@@ -274,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -499,8 +533,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时53分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时53分 ~ 23时55分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -527,8 +561,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时53分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时53分 ~ 23时55分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -652,7 +686,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -665,8 +699,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时10分 ~ 22时26分]"
+          "appearance_count": 20,
+          "time_info": "[02时10分 ~ 23时55分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -678,8 +712,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时53分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时53分 ~ 23时55分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -689,11 +723,23 @@
             12,
             11,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时01分 ~ 22时26分]"
+          "appearance_count": 8,
+          "time_info": "[19时01分 ~ 23时55分]"
+        },
+        {
+          "title": "A股下周会迎来更猛烈的震荡吗",
+          "url": "https://www.toutiao.com/trending/7666467803297222180/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "A股一周跌幅榜出炉",
@@ -724,6 +770,18 @@
           "time_info": "[02时10分 ~ 07时53分]"
         },
         {
+          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
+          "url": "https://wallstreetcn.com/livenews/3139765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时55分]"
+        },
+        {
           "title": "A股史上最大回购！宁德时代拟回购200亿−400亿元股份用于注销，上半年净利增四成",
           "url": "https://m.thepaper.cn/newsDetail_forward_33654589",
           "source": "澎湃新闻",
@@ -744,17 +802,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时25分 ~ 22时26分]"
-        },
-        {
-          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
-          "url": "https://wallstreetcn.com/livenews/3139765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         }
       ]
     },
