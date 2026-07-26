@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T22:23:11.202593+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-07-26T23:53:46.206503+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 22时23分]"
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 23时53分]"
         },
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -47,8 +47,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 23时53分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -61,8 +61,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 23时53分]"
+        },
+        {
+          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
+          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时53分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -75,17 +86,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 09时27分]"
-        },
-        {
-          "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
-          "url": "https://news.ifeng.com/c/8v4oybcdZW1",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时23分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -111,11 +111,12 @@
           "ranks": [
             12,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时27分 ~ 22时23分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 23时53分]"
         },
         {
           "title": "以总理计划向特朗普递交伊朗情报",
@@ -179,6 +180,20 @@
           "time_info": "[07时49分 ~ 19时54分]"
         },
         {
+          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
+          "url": "https://wallstreetcn.com/livenews/3139824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 23时53分]"
+        },
+        {
           "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
           "url": "https://wallstreetcn.com/articles/3777933",
           "source": "华尔街见闻",
@@ -226,18 +241,17 @@
           "time_info": "[13时18分 ~ 19时54分]"
         },
         {
-          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
-          "url": "https://wallstreetcn.com/livenews/3139824",
+          "title": "内塔尼亚胡称将赴美会晤特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139827",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8,
-            17,
-            27
+            5,
+            14,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时29分 ~ 22时23分]"
+          "time_info": "[19时54分 ~ 23时53分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -260,19 +274,6 @@
             4,
             8,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时54分 ~ 22时23分]"
-        },
-        {
-          "title": "内塔尼亚胡称将赴美会晤特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            24
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -344,6 +345,18 @@
           "time_info": "[19时54分 ~ 22时23分]"
         },
         {
+          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
+          "url": "https://wallstreetcn.com/livenews/3139838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 23时53分]"
+        },
+        {
           "title": "英首相回应是否愿公开批评特朗普",
           "url": "https://flash.jin10.com/detail/20260726163049734800",
           "source": "金十数据",
@@ -381,16 +394,26 @@
           "time_info": "[02时47分 ~ 04时04分]"
         },
         {
-          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
-          "url": "https://wallstreetcn.com/livenews/3139838",
+          "title": "英国新任首相：若有必要将公开批评特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139848",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            18
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时23分]"
+          "time_info": "[22时23分 ~ 23时53分]"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
+          "url": "https://wallstreetcn.com/livenews/3139844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时53分]"
         },
         {
           "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
@@ -449,37 +472,26 @@
           "time_info": "13时19分"
         },
         {
-          "title": "英国新任首相：若有必要将公开批评特朗普",
-          "url": "https://wallstreetcn.com/livenews/3139848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "美国常驻联合国代表迈克·华尔兹表示，美国总统特朗普正在给伊朗谈判“留出一些空间”。",
           "url": "https://flash.jin10.com/detail/20260726210929420800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时23分"
         },
         {
-          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
-          "url": "https://wallstreetcn.com/livenews/3139844",
-          "source": "华尔街见闻-快讯",
+          "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
+          "url": "https://flash.jin10.com/detail/20260726230940914800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "23时53分"
         },
         {
           "title": "美国总统特朗普：所有共和党参议员！终止阻挠议事，民主党人一有机会就会这么做，赶快通过《拯救美国法案》，以及其他一切，包括预算和即将到来的债务上限。现在就去做，别等到太晚。",
@@ -502,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
+          "url": "https://flash.jin10.com/detail/20260726222401916800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "特朗普调侃白宫记者",
@@ -541,8 +564,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 23时53分]"
         },
         {
           "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
@@ -554,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 22时23分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 23时53分]"
         },
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -598,15 +621,18 @@
           "time_info": "[00时46分 ~ 09时27分]"
         },
         {
-          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
-          "url": "https://flash.jin10.com/detail/20260726213859697800",
-          "source": "金十数据",
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
           "ranks": [
-            4
+            12,
+            10,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时54分 ~ 23时53分]"
         },
         {
           "title": "A股史上最大规模回购来了",
@@ -633,17 +659,16 @@
           "time_info": "[18时29分 ~ 20时53分]"
         },
         {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
+          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
+          "url": "https://flash.jin10.com/detail/20260726213859697800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            10,
-            7
+            4,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时54分 ~ 22时23分]"
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时53分]"
         },
         {
           "title": "A股下周怎么走",
@@ -740,8 +765,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时53分]"
+        },
+        {
+          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3139854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时53分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -756,17 +792,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时47分 ~ 05时43分]"
-        },
-        {
-          "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3139854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
