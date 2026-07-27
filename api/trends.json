@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T09:32:13.978785+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2026-07-27T13:37:21.678434+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -76,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时37分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -102,6 +102,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时47分]"
+        },
+        {
+          "title": "美共和党参议员称特朗普短期内结束伊朗战争可能性低",
+          "url": "https://flash.jin10.com/detail/20260727131016363800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -251,7 +262,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 8,
+      "match_count": 19,
       "titles": [
         {
           "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
@@ -297,8 +308,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时37分]"
+        },
+        {
+          "title": "长鑫科技上市 成A股市值最高公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "兆易创新A股成交额超200亿元，现跌7.6%。",
+          "url": "https://wallstreetcn.com/livenews/3140036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股旅游及酒店板块午后走高，华天酒店、同庆楼涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727131315369800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "A股温度计",
@@ -307,9 +351,64 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "A股旅游板块再度拉升，同庆楼午后涨停，华天酒店回封涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3140031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股算力租赁概念午后拉升，宁波建工直线涨停，行云科技、亚康股份涨超10%，农尚环境、天亿马、思特奇涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3140029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "媒体：A股交易新规更好满足投资者",
@@ -334,21 +433,54 @@
           "time_info": "[09时31分 ~ 09时32分]"
         },
         {
+          "title": "A股玻璃纤维板块午后拉升，国际复材涨超15%，宏和科技触及涨停，中国巨石、山东玻纤、中材科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727130738276800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "A股算力租赁概念午后拉升，宁波建工直线涨停，行云科技、亚康股份涨超10%，农尚环境、天亿马、思特奇涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260727130548523800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-07-27）",
           "url": "https://flash.jin10.com/detail/20260727090559498800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
+          "url": "https://wallstreetcn.com/livenews/3140006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -373,6 +505,29 @@
           "time_info": "07时50分"
         },
         {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 13时37分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3139891",
           "source": "华尔街见闻-快讯",
@@ -385,21 +540,43 @@
           "time_info": "[07时50分 ~ 09时32分]"
         },
         {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 09时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
+          "url": "https://www.cls.cn/detail/2437206",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
+          "url": "https://wallstreetcn.com/livenews/3140016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
@@ -425,6 +602,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时47分]"
+        },
+        {
+          "title": "三重技术信号施压美股，夏季调整警报拉响？",
+          "url": "https://flash.jin10.com/detail/20260727131107062800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
