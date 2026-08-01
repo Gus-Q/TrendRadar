@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T15:59:43.307239+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-08-01T17:55:19.863734+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -83,6 +83,18 @@
           "time_info": "[05时56分 ~ 09时29分]"
         },
         {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 17时55分]"
+        },
+        {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
           "url": "https://flash.jin10.com/detail/20260801005015734800",
           "source": "金十数据",
@@ -129,16 +141,17 @@
           "time_info": "01时18分"
         },
         {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            4
+            9,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 15时59分]"
+          "time_info": "[13时18分 ~ 17时55分]"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -165,28 +178,17 @@
           "time_info": "[05时56分 ~ 07时51分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
-        },
-        {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
           "url": "https://www.cls.cn/detail/2443172",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 17时55分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -199,6 +201,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时50分 ~ 07时51分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时55分]"
         },
         {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
@@ -335,6 +349,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美国总统特朗普：（关于乌克兰战争）双方都需要作出让步。",
           "url": "https://flash.jin10.com/detail/20260801002600202800",
           "source": "金十数据",
@@ -344,17 +369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "美国总统特朗普：（关于达成伊朗协议的可能性）但我对伊朗越来越失去信心，因为他们撒谎。",
@@ -478,6 +492,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "以总理透露说服特朗普打伊朗细节",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E6%80%BB%E7%90%86%E9%80%8F%E9%9C%B2%E8%AF%B4%E6%9C%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E4%BC%8A%E6%9C%97%E7%BB%86%E8%8A%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
           "title": "美国总统特朗普声称：伊朗做得非常糟糕。 在与美国打交道时候，伊朗不老实。 伊朗处境艰难。",
           "url": "https://wallstreetcn.com/livenews/3143374",
           "source": "华尔街见闻-快讯",
@@ -503,7 +528,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -515,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 15时59分]"
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 17时55分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -538,11 +563,24 @@
             8,
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 15时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时17分 ~ 17时55分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 17时55分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -557,18 +595,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时17分 ~ 06时50分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 15时59分]"
         },
         {
           "title": "美股三大指数集体高开 苹果跌超8%",
@@ -639,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         },
         {
           "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -720,6 +757,18 @@
           "time_info": "[01时17分 ~ 09时29分]"
         },
         {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时55分]"
+        },
+        {
           "title": "如何评价 Deepseek-V4-Flash 正式版？",
           "url": "https://www.zhihu.com/question/2066525148576998707",
           "source": "知乎",
@@ -756,15 +805,16 @@
           "time_info": "13时18分"
         },
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
           "source": "知乎",
           "ranks": [
-            3
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -778,28 +828,17 @@
           "time_info": "[01时17分 ~ 03时06分]"
         },
         {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
-        },
-        {
           "title": "实测DeepSeek V4 Flash",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 15时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 17时55分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
@@ -819,7 +858,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -830,7 +869,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -851,6 +890,21 @@
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 17时55分]"
+        },
         {
           "title": "美媒：OpenAI面临投资者担忧与竞争压力，IPO或推迟至明年",
           "url": "https://flash.jin10.com/detail/20260801091854018800",
@@ -900,20 +954,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时51分 ~ 07时51分]"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 15时59分]"
         },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
@@ -979,7 +1019,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股放量上涨是反弹还是反转",
@@ -1017,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时50分]"
+        },
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时55分"
         }
       ]
     },
@@ -1113,8 +1164,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时49分 ~ 15时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时49分 ~ 17时55分]"
         },
         {
           "title": "美国圣路易斯联储主席穆萨勒姆（Musalem）针对美债抛售事件表示：美债抛售对美联储的信誉发出了警告。 我本人倾向于（支持）加息。（英国金融时报）",
