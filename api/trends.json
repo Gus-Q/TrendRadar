@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T16:59:14.771296+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-08-03T20:13:08.089324+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -90,6 +90,18 @@
           "time_info": "[09时27分 ~ 13时29分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 20时13分]"
+        },
+        {
           "title": "特朗普再称委内瑞拉为美国第51州",
           "url": "https://www.toutiao.com/trending/7669053092835524651/",
           "source": "今日头条",
@@ -148,17 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -273,6 +274,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 02时51分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
         },
         {
           "title": "布油期货周一亚市开盘大跌6.7%，标普500指数期货上涨0.4%。此前特朗普暂缓打击伊朗，特朗普称美伊3日将举行谈判。",
@@ -515,7 +527,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -594,6 +606,17 @@
           "time_info": "[16时58分 ~ 16时59分]"
         },
         {
+          "title": "存储赛道回调：A股概念股全线走弱 韩国存储龙头再遭重挫",
+          "url": "https://www.cls.cn/detail/2443973",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -614,6 +637,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "媒体：A股资金格局正在“再平衡”",
+          "url": "https://www.toutiao.com/trending/7669739487047470655/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
         },
         {
           "title": "A股温度计",
@@ -649,6 +683,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "澜起科技：截至2026年7月31日，公司已通过集中竞价交易方式累计回购公司A股股份70.5万股，占公司总股本的比例为0.06%，支付的金额总额约为人民币1.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3144117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
           "title": "A股半导体多股大跌",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%9A%E8%82%A1%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -662,69 +707,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
-          "url": "https://www.cls.cn/detail/2443731",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
-        },
-        {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时27分 ~ 09时28分]"
-        },
-        {
-          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
-          "url": "https://flash.jin10.com/detail/20260803122507266800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
-          "title": "摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85%",
-          "url": "https://wallstreetcn.com/livenews/3143778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
-          "url": "https://flash.jin10.com/detail/20260803115620374800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -775,11 +759,12 @@
           "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 20时13分]"
         },
         {
           "title": "博主：DeepSeek给全球AI画斩杀线",
@@ -791,12 +776,106 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时58分 ~ 16时59分]"
+        },
+        {
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
+          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
+          "url": "https://flash.jin10.com/detail/20260803122507266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        },
+        {
+          "title": "美财政部长期拒绝调整美债发行指引，华尔街逐渐放弃期待",
+          "url": "https://flash.jin10.com/detail/20260803193537469800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        },
+        {
+          "title": "摩根大通：将美联储加息时点预期提前至12月，10年期美债收益率料在4.85%",
+          "url": "https://wallstreetcn.com/livenews/3143778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -812,13 +891,24 @@
           "time_info": "[00时44分 ~ 07时48分]"
         },
         {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
+        },
+        {
           "title": "摩根大通警告：美股“挤水分”进入下半场，但抄底时机未到",
           "url": "https://flash.jin10.com/detail/20260803162828608800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -829,7 +919,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         },
@@ -840,7 +930,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
         }
@@ -848,7 +938,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -871,8 +961,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 16时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 20时13分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
@@ -884,6 +974,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 13时29分]"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时12分 ~ 20时13分]"
         }
       ]
     },
