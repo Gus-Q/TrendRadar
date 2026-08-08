@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:31:52.074022+08:00",
-  "total_titles_processed": 997,
+  "generated_at": "2026-08-08T15:40:12.701942+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时42分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 15时40分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +32,21 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时43分 ~ 14时31分]"
+          "appearance_count": 15,
+          "time_info": "[03时43分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 15时40分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -47,18 +60,6 @@
           "time_info": "[00时40分 ~ 06时24分]"
         },
         {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 14时31分]"
-        },
-        {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
           "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
           "source": "凤凰网",
@@ -68,6 +69,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时42分 ~ 10时49分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 15时40分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -165,19 +180,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时27分 ~ 08时42分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 14时31分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
@@ -460,6 +462,19 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时42分 ~ 15时40分]"
+        },
+        {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
@@ -481,21 +496,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 15时40分]"
         },
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
-            5,
-            2,
-            1
+            10,
+            6,
+            3,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时42分 ~ 14时31分]"
+          "appearance_count": 11,
+          "time_info": "[06时24分 ~ 15时40分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -507,20 +524,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时28分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时24分 ~ 14时31分]"
         },
         {
           "title": "美股存储板块集体大跌",
@@ -630,6 +633,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 15时40分]"
+        },
+        {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739348",
           "source": "澎湃新闻",
@@ -641,8 +657,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时43分 ~ 14时31分]"
+          "appearance_count": 15,
+          "time_info": "[03时43分 ~ 15时40分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -654,18 +670,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 07时23分]"
-        },
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 14时31分]"
         },
         {
           "title": "如何评价网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午？为什么会出现这样的现象？",
@@ -726,6 +730,34 @@
       ]
     },
     {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
+        },
+        {
+          "title": "A股一周牛股出炉 最牛股近乎翻倍",
+          "url": "https://www.toutiao.com/trending/7670202670728839195/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -741,8 +773,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时40分 ~ 14时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时40分 ~ 15时40分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -768,26 +800,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股一周牛股出炉 最牛股近乎翻倍",
-          "url": "https://www.toutiao.com/trending/7670202670728839195/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 07时23分]"
         }
       ]
     },
