@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:44:32.124666+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-08-09T16:28:43.047733+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时28分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -40,11 +40,25 @@
             13,
             15,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 16时28分]"
+        },
+        {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 16时28分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -59,19 +73,6 @@
           "time_info": "[00时18分 ~ 10时56分]"
         },
         {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 15时44分]"
-        },
-        {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
           "url": "https://wallstreetcn.com/livenews/3147021",
           "source": "华尔街见闻-快讯",
@@ -82,11 +83,23 @@
             18,
             20,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 16时28分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时28分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -114,27 +127,17 @@
           "time_info": "[12时09分 ~ 15时44分]"
         },
         {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时44分]"
-        },
-        {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
           "url": "https://flash.jin10.com/detail/20260809135228907800",
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时35分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时35分 ~ 16时28分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -186,21 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时44分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时28分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -212,8 +202,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 15时44分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 16时28分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时28分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -237,8 +241,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时56分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[10时56分 ~ 16时28分]"
         }
       ]
     },
@@ -254,8 +258,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时28分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -270,11 +274,12 @@
             8,
             23,
             20,
-            29
+            29,
+            21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时18分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[00时18分 ~ 16时28分]"
         },
         {
           "title": "周一A股真正要看什么",
@@ -389,8 +394,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 15时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 16时28分]"
         }
       ]
     },
