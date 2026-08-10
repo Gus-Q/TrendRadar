@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T22:11:28.681654+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2026-08-10T23:48:38.281297+08:00",
+  "total_titles_processed": 1816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -40,11 +40,12 @@
           "ranks": [
             2,
             10,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 22时11分]"
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 23时48分]"
         },
         {
           "title": "A股煤化工板块走高，金牛化工涨停，江苏索普、华昌化工、诚志股份、宝丰能源、鲁西化工等纷纷走高。",
@@ -247,6 +248,17 @@
           "time_info": "17时05分"
         },
         {
+          "title": "十大券商看后市｜A股仍处于上行周期，超跌反弹还有演绎空间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
           "url": "https://flash.jin10.com/detail/20260810101240509800",
           "source": "金十数据",
@@ -404,7 +416,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -442,8 +454,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 22时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 23时48分]"
+        },
+        {
+          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
+          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 23时48分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -455,19 +478,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 22时11分]"
-        },
-        {
-          "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
-          "url": "https://news.ifeng.com/c/8vTlIUCd26B",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 22时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 23时48分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -488,8 +500,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 22时11分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时48分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -502,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时05分 ~ 22时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时05分 ~ 23时48分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -534,6 +546,20 @@
           "time_info": "[05时21分 ~ 07时19分]"
         },
         {
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 23时48分]"
+        },
+        {
           "title": "特朗普公布新任总统助理人选",
           "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
           "source": "凤凰网",
@@ -556,19 +582,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时56分 ~ 22时11分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -673,7 +686,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -698,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时15分"
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "特朗普周一行程",
@@ -758,7 +782,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -821,6 +845,18 @@
           "time_info": "18时56分"
         },
         {
+          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 23时48分]"
+        },
+        {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
           "url": "https://flash.jin10.com/detail/20260810060135599800",
           "source": "金十数据",
@@ -856,17 +892,6 @@
           "time_info": "[20时40分 ~ 20时41分]"
         },
         {
-          "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
           "title": "美股新高即将迎来考验，CPI会来带抛售潮吗？",
           "url": "https://flash.jin10.com/detail/20260810130237090800",
           "source": "金十数据",
@@ -878,13 +903,24 @@
           "time_info": "13时15分"
         },
         {
+          "title": "美股CAPE升至42倍，未来十年会变成“失去的十年”吗？",
+          "url": "https://flash.jin10.com/detail/20260810230305789800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美股盘初：纳指跌0.1%，英特尔跌约3%，Meta涨约1%",
           "url": "https://wallstreetcn.com/livenews/3147550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -895,7 +931,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -939,7 +975,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -950,7 +986,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         }
@@ -1000,6 +1036,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "北美科技软件股指数ETF涨1.4%，刷新日高至104.17美元，逼近6月1日盘中最高位108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3147561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 23时48分]"
+        },
+        {
           "title": "周一汇市盘初持稳，美元兑日元USD/JPY跌0.08%、欧元兑美元EUR/USD涨0.03%、美元指数DXY跌0.04%。",
           "url": "https://flash.jin10.com/detail/20260810053536334800",
           "source": "金十数据",
@@ -1010,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时19分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨1.4%，刷新日高至104.17美元，逼近6月1日盘中最高位108.03美元。",
-          "url": "https://wallstreetcn.com/livenews/3147561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时11分"
         }
       ]
     },
@@ -1068,8 +1105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 22时11分]"
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时48分]"
         }
       ]
     }
