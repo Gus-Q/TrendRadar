@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:30:56.838582+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-08-12T07:28:33.198318+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -27,30 +27,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://wallstreetcn.com/livenews/3148261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时30分"
+          "time_info": "07时28分"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -59,7 +72,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -70,7 +83,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -103,7 +116,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         },
@@ -166,7 +179,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -176,8 +189,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -200,8 +213,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
+          "url": "https://wallstreetcn.com/livenews/3148253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时34分 ~ 07时28分]"
         },
         {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
@@ -210,18 +247,6 @@
           "ranks": [
             3,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时30分]"
-        },
-        {
-          "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
-          "url": "https://wallstreetcn.com/livenews/3148253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -331,22 +356,24 @@
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
         },
         {
           "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
           "url": "https://wallstreetcn.com/livenews/3148266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -401,17 +428,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
           "url": "https://flash.jin10.com/detail/20260812012754420800",
           "source": "金十数据",
@@ -422,6 +438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时44分]"
+        },
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
         },
         {
           "title": "谷歌：Gemini月活用户数超过10亿",
@@ -490,6 +518,76 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
+          "url": "https://wallstreetcn.com/livenews/3148203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时53分]"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
+          "url": "https://www.cls.cn/detail/2451293",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
+        },
+        {
+          "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
+          "url": "https://wallstreetcn.com/livenews/3148284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -504,38 +602,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时28分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
-          "url": "https://www.cls.cn/detail/2451293",
-          "source": "财联社热门",
-          "ranks": [
             10,
-            9,
-            8
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
         }
       ]
     },
@@ -554,24 +634,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
-          "url": "https://wallstreetcn.com/livenews/3148203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时53分]"
         }
       ]
     }
