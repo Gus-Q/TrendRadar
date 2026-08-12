@@ -1,11 +1,268 @@
 {
-  "generated_at": "2026-08-12T17:56:46.817121+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-08-12T18:50:22.556111+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时54分]"
+        },
+        {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时54分]"
+        },
+        {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时30分 ~ 18时50分]"
+        },
+        {
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时17分 ~ 13时23分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时50分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时17分 ~ 15时05分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3148261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://flash.jin10.com/detail/20260812053053264800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时28分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时50分]"
+        },
+        {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
+          "url": "https://flash.jin10.com/detail/20260812052220258800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
+          "url": "https://flash.jin10.com/detail/20260812050519717800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时30分"
+        },
+        {
+          "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
+          "url": "https://wallstreetcn.com/livenews/3148157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3148156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
+          "url": "https://flash.jin10.com/detail/20260812001133689800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
+          "url": "https://flash.jin10.com/detail/20260812001111070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
+          "url": "https://flash.jin10.com/detail/20260812001107875800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260812005559330800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美国总统特朗普：美国公民罗伯特·吉尔曼，一名前美国海军陆战队员，正在回家。",
+          "url": "https://flash.jin10.com/detail/20260812001057496800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普会在中期选举前抛出政策礼包吗",
+          "url": "https://www.toutiao.com/trending/7673061079413243958/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "前美外交官：特朗普在“挺以色列”形象与对内塔尼亚胡不满间挣扎",
+          "url": "https://flash.jin10.com/detail/20260812180539210800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "A股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "A股“股王”，股价重回2200元",
@@ -20,6 +277,18 @@
           "time_info": "[13时23分 ~ 17时56分]"
         },
         {
+          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
+          "url": "https://www.cls.cn/detail/2452324",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时58分 ~ 18时50分]"
+        },
+        {
           "title": "首日上市突破500元！“大肉签”跻身A股股价前十，高价阵营频见新股面孔",
           "url": "https://www.cls.cn/detail/2451293",
           "source": "财联社热门",
@@ -31,17 +300,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时28分]"
-        },
-        {
-          "title": "一图看懂 | 8月A股首只翻倍股出炉，一批牛股涨超70%",
-          "url": "https://www.cls.cn/detail/2452324",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 17时56分]"
         },
         {
           "title": "A股收评：创业板指低开高走手掌1.49% 大消费板块午后异动拉升",
@@ -112,6 +370,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时23分 ~ 15时05分]"
+        },
+        {
+          "title": "重返3.5万亿市值！A股“一哥”大涨超6%，百亿成交活跃股扫描",
+          "url": "https://www.cls.cn/detail/2452477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "A股光学元件板块持续走高，光智科技、中润光学涨超10%，东田微、激智科技、水晶光电、波长光电、戈碧迦等跟涨。",
@@ -237,230 +506,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 08时54分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 08时54分]"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时30分 ~ 17时56分]"
-        },
-        {
-          "title": "特朗普承认：悄悄换乘飞机了",
-          "url": "https://wallstreetcn.com/livenews/3148388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时17分 ~ 13时23分]"
-        },
-        {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时58分 ~ 17时56分]"
-        },
-        {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 15时05分]"
-        },
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3148261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://flash.jin10.com/detail/20260812053053264800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 07时28分]"
-        },
-        {
-          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
-          "url": "https://flash.jin10.com/detail/20260812064319870800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        },
-        {
-          "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
-          "url": "https://flash.jin10.com/detail/20260812052220258800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
-          "url": "https://flash.jin10.com/detail/20260812050519717800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
-          "url": "https://wallstreetcn.com/livenews/3148157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "英特尔CEO陈立武（Lip-Bu Tan）曾寻求美国允许其发行二级股票。 但特朗普政府决定不参与，商务部长卢特尼克批准了该公司二次发行的想法。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3148156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美国总统特朗普：罗伯特在俄罗斯被监禁。他今晚将抵达华盛顿特区。",
-          "url": "https://flash.jin10.com/detail/20260812001133689800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美国总统特朗普：我们对此决定表示感谢，俄罗斯并未要求任何回报。",
-          "url": "https://flash.jin10.com/detail/20260812001111070800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "美国总统特朗普：在我与俄罗斯总统普京的讨论后，俄罗斯已同意释放他。",
-          "url": "https://flash.jin10.com/detail/20260812001107875800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
-          "url": "https://flash.jin10.com/detail/20260812005559330800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美国总统特朗普：美国公民罗伯特·吉尔曼，一名前美国海军陆战队员，正在回家。",
-          "url": "https://flash.jin10.com/detail/20260812001057496800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -511,17 +558,6 @@
           "time_info": "[07时28分 ~ 15时05分]"
         },
         {
-          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
-          "url": "https://wallstreetcn.com/livenews/3148557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
           "url": "https://wallstreetcn.com/livenews/3148253",
           "source": "华尔街见闻-快讯",
@@ -545,6 +581,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时30分]"
+        },
+        {
+          "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
+          "url": "https://wallstreetcn.com/livenews/3148557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 18时50分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -627,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美股盘前：CoreWeave涨约16%，超微电脑涨约10%，Lumentum涨约7%",
@@ -774,7 +833,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         }
@@ -935,7 +994,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
@@ -948,6 +1007,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时44分]"
+        },
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     }
