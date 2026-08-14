@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T08:55:15.732371+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-08-14T11:19:44.907528+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -80,6 +80,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://wallstreetcn.com/livenews/3149448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
           "url": "https://wallstreetcn.com/livenews/3149255",
           "source": "华尔街见闻-快讯",
@@ -97,11 +108,12 @@
           "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时19分]"
         },
         {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
@@ -138,6 +150,28 @@
           "time_info": "07时30分"
         },
         {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普的美军科技路线有多矛盾？中东搞无人战争联盟，航母却要退回蒸汽时代",
+          "url": "https://flash.jin10.com/detail/20260814105548306800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
           "url": "https://wallstreetcn.com/livenews/3149298",
           "source": "华尔街见闻-快讯",
@@ -171,6 +205,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "美媒披露特朗普换机疑因受到伊朗肩扛式导弹袭击的威胁，鲁比奥、贝森特留在了「空军一号」上，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2071188820662433064",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
           "url": "https://flash.jin10.com/detail/20260814043950826800",
           "source": "金十数据",
@@ -202,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "以色列多次警告伊朗要刺杀特朗普，美国中情局：没法核实",
+          "url": "https://flash.jin10.com/detail/20260814104645705800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
           "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
@@ -317,7 +373,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -342,19 +398,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时19分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时19分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -362,11 +419,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时19分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -430,6 +488,21 @@
           "time_info": "[00时43分 ~ 08时55分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 11时19分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -463,36 +536,24 @@
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时19分]"
         },
         {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时19分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -537,6 +598,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 06时30分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
+          "url": "https://www.zhihu.com/question/2071225352072999482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "一次看懂DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%87%82DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
@@ -567,6 +661,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 06时30分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 11时19分]"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -602,18 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
-          "url": "https://www.cls.cn/detail/2453979",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时30分 ~ 08时55分]"
         },
         {
           "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
@@ -931,7 +1025,7 @@
     },
     {
       "keyword_group": "A股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "A股午后回落，三大股指集体收跌，医药股逆势大涨，港股腾讯跌超4%，联想集团午后暴涨20%",
@@ -942,8 +1036,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 08时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 11时19分]"
         },
         {
           "title": "“科技成长+周期修复”驱动，A股龙头公司半年报亮眼",
@@ -974,9 +1068,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3149410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
@@ -1100,11 +1238,12 @@
           "url": "https://www.toutiao.com/trending/7673529634117389887/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 11时19分]"
         }
       ]
     }
